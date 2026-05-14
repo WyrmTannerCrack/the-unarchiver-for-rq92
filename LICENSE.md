@@ -1,4 +1,4 @@
-
+Enhance The Unarchiver for macOS with The Unarchiver for macOS premium Helper: window-management & battery-health, the #1 helper. Includes window-management and battery-health for
 
 
 
